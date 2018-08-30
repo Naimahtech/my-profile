@@ -1,0 +1,367 @@
+body{
+ background-color: #FFFFFF;
+font-family: 'Poppins', sans-serif; 
+}
+.background{
+	background: url("../images/Capture8.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.background .background2{
+	background-color: rgba(0, 0, 0, 0.88);
+	width: 100%;
+    height: 100%;
+}
+.navbar-brand{
+	color: #FF1493;
+	font-style: italic;
+}
+a.navbar-brand:hover{
+	color: #FFB6C1;
+}
+.navbar-toggler{
+	color: #FF1493
+}
+.image{
+padding-top: 40px; 
+background: url("../images/Naimah1.jpg");
+height: 220px;
+width: 210px;
+background-size: cover;
+border: 3px solid white;
+border-radius: 140px;
+margin: 0 auto;
+}
+.name{
+	padding-top: 10px;
+	color: #FFB6C1;
+	font-size: 26px;
+	font-weight: bold;
+    text-align: center;
+    letter-spacing: 1px;
+}
+.web{
+	color: #eaeaea !important;
+    font-size: 20px !important;
+    text-transform: uppercase !important;
+}
+.icons{
+ padding-top: 10px;
+ text-align: center;
+ letter-spacing: 3px;
+}
+.fa-facebook{
+  padding:  10px 10px 10px 10px;
+  border-radius: 40px;
+  border: 1px solid #eaeaea;
+  background-color: black;
+  display: inline-block;
+  color: #eaeaea;
+  font-size: 20px;
+  text-align: center;
+}
+
+.fa-linkedin{
+  padding:  10px 10px 10px 10px;
+  border-radius: 40px;
+   border: 1px solid #eaeaea;
+  background-color: black;
+  display: inline-block;
+  color: #eaeaea;
+  font-size: 20px;
+  text-align: center;
+}
+.fa-github{
+  padding:  10px 10px 10px 10px;
+  border-radius: 80px;
+  border: 1px solid #eaeaea;
+  background-color: black;
+  display: inline-block;
+  color: #eaeaea;
+  font-size: 20px;
+  line-height: 1.0;
+  text-align: center;
+}
+
+.first{
+    width: 60px;
+    background-color: #635ebe !important;
+    color: white;
+    border: 1px solid white;
+}
+
+.fa-minus{
+  color: #000000;
+  font-size: 8px;
+}
+.row2{
+	padding-top: 50px;
+	text-align: center !important;
+}
+em{
+color: #FF1493;
+font-size: 16px;
+font-style: italic;
+font-weight: bolder;
+letter-spacing: 0.8px;
+}
+#about{
+	font-weight: 400;
+	font-size: 30px;
+}
+#me{
+	color: grey;
+	font-size: 18px;
+}
+.tripple{
+	padding-top: 24px;
+}
+.three{
+	color: grey !important;
+	font-size: 16px;
+}
+.projects{
+	padding-top: 30px;
+	text-align: center;
+}
+.img1{
+background: url("../images/sprinble1.jpg");
+height: 380px;
+width: 580px;
+background-size: cover;
+border: 1px solid grey;
+margin: 0 auto;
+padding-top: 20px;
+}
+.img2{
+background: url("../images/progress1.jpg");
+height: 380px;
+width: 580px;
+background-size: cover;
+border: 1px solid grey;
+margin: 0 auto;
+padding-top: 20px;
+}
+.img3{
+background: url("../images/progress2.jpg");
+height: 380px;
+width: 580px;
+background-size: cover;
+border: 1px solid grey;
+margin: 0 auto;
+padding-top: 20px;
+}
+.img8{
+background: url("../images/diatension.jpg");
+height: 380px;
+width: 580px;
+background-size: cover;
+border: 2px solid grey;
+margin: 0 auto;
+padding-top: 20px;
+}
+#pro{
+	color: grey;
+}
+.friends{
+	padding-top: 80px;
+}
+.caro{
+	padding-top: 20px;
+}
+.carousel-item{
+	background-color: #eaeaea;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.details{
+	text-align: center;
+}
+.photo1{
+background: url("../images/Ade.jpg");
+height: 240px;
+width: 240px;
+background-size: cover;
+border: 2px solid white;
+border-radius: 88px;
+margin: 0 auto;
+padding-top: 40px;
+}
+.photo2{
+background: url("../images/Az.jpg");
+height: 240px;
+width: 240px;
+background-size: cover;
+border: 2px solid white;
+border-radius: 88px;
+margin: 0 auto;
+padding-top: 40px;
+}
+.photo3{
+background: url("../images/sister.jpg");
+height: 240px;
+width: 240px;
+background-size: cover;
+border: 2px solid white;
+border-radius: 88px;
+margin: 0 auto;
+padding-top: 40px;
+}
+.photo4{
+background: url("../images/zaidat.jpg");
+height: 240px;
+width: 240px;
+background-size: cover;
+border: 2px solid white;
+border-radius: 88px;
+margin: 0 auto;
+padding-top: 40px;
+}
+.photo6{
+background: url("../images/alimi.jpg");
+height: 240px;
+width: 240px;
+background-size: cover;
+border: 2px solid white;
+border-radius: 88px;
+margin: 0 auto;
+padding-top: 40px;
+}
+footer{
+	margin-top: 30px;
+	background-color: black;
+	color: white;
+	text-align: center !important;
+}
+small{
+	color: red;
+}
+.btn-custom{
+	background-color: #FF1493 !important;
+	color: white !important;
+}
+@media only screen and (max-width: 720px) {
+    
+    
+}
+
+@media only screen and (max-width: 680px) {
+.one {
+padding: 10px 10px 10px 10px;
+}
+.two {
+	padding: 10px 10px 10px 10px;
+}
+.third {
+	padding: 10px 10px 10px 10px;
+}
+
+.img1{
+height: 380px;
+width: 480px;
+}
+.img2{
+height: 380px;
+width: 480px;
+}
+.img3{
+height: 380px;
+width: 480px;
+}
+.img8{
+height: 380px;
+width: 480px;
+}
+
+}
+
+@media only screen and (max-width: 540px) {
+	.one {
+padding-left: 20px;
+padding-right: 20px;
+}
+.two {
+	padding-left: 20px;
+padding-right: 20px;
+}
+.third {
+	padding-left: 20px;
+padding-right: 20px;
+}
+
+.img1{
+height: 380px;
+width: 460px;
+}
+.img2{
+height: 380px;
+width: 460px;
+}
+.img3{
+height: 380px;
+width: 460px;
+}
+.img8{
+height: 380px;
+width: 460px;
+}
+   
+}
+@media only screen and (max-width: 480px) {
+	.one {
+padding-left: 20px;
+padding-right: 20px;
+}
+.two {
+	padding-left: 20px;
+padding-right: 20px;
+}
+.third {
+  padding-left: 20px;
+padding-right: 20px;
+}
+.img1{
+height: 380px;
+width: 420px;
+}
+.img2{
+height: 380px;
+width: 420px;
+}
+.img3{
+height: 380px;
+width: 420px;
+}
+.img8{
+height: 380px;
+width: 420px;
+}
+}
+
+@media only screen and (max-width: 360px) {
+	.one {
+padding: 10px 10px 10px 10px;
+}
+.two {
+	padding: 10px 10px 10px 10px;
+}
+.third {
+	padding: 10px 10px 10px 10px;
+}
+.img1{
+height: 380px;
+width: 360px;
+}
+.img2{
+height: 380px;
+width: 360px;
+}
+.img3{
+height: 380px;
+width: 360px;
+}
+.img8{
+height: 380px;
+width: 360px;
+}
+    }
